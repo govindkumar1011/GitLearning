@@ -1,0 +1,6 @@
+Hello Second
+yes
+
+go through with you
+
+Use git commit -a -m "hello" 
