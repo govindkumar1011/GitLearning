@@ -2,3 +2,5 @@ File Number is FIVE
 
 hello changes something insid
 hiie
+
+yes use git commit amend
